@@ -1,5 +1,7 @@
-app.py
-requirements.txt
-render.yaml
-templates/
-    index.html
+Flask==2.3.4
+requests==2.32.0
+beautifulsoup4==4.12.2
+pandas==2.1.1
+lxml==4.9.3
+gunicorn==21.2.0
+openpyxl==3.1.3

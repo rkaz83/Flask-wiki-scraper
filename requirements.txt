@@ -1,6 +1,5 @@
-Flask
-gunicorn
-requests
-beautifulsoup4
-pandas
-lxml
+app.py
+requirements.txt
+render.yaml
+templates/
+    index.html
